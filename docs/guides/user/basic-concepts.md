@@ -20,13 +20,13 @@ There is a dedicated document to walk you through [Sketches](sketch-overview.md)
 
 ## Adding Timelines
 
-- [Create timeline from JSON/JSONL/CSV file](/guides/user/import-from-json-csv/)
-- [Uploading data](/guides/user/upload-data/)
-- [Upload data via the API](/developers/api-upload-data/)
+- [Create timeline from JSON/JSONL/CSV file](/docs/guides/user/import-from-json-csv/)
+- [Uploading data](/docs/guides/user/upload-data/)
+- [Upload data via the API](/docs/developers/api-upload-data/)
 
 ## Adding event
 
-This feature is currently not implemented in the Web UI. But you can add events using the [API client](/developers/api-client.md).
+This feature is currently not implemented in the Web UI. But you can add events using the [API client](/docs/developers/api-client.md).
 
 ## Add a comment
 
@@ -102,7 +102,7 @@ You can add saved views, aggregations and text in markdown format to a story.
 
 Some analyzers automatically generate stories to either highlight possible events of interest or to document their runtime.
 
-If you want to export a story, export the whole Sketch. The zip file will contain each story. A story can also be exported using the [API Client](/developers/api-client/).
+If you want to export a story, export the whole Sketch. The zip file will contain each story. A story can also be exported using the [API Client](/docs/developers/api-client/).
 
 ## Demo
 
